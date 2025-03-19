@@ -5,9 +5,9 @@ I'm an **AI Engineer** passionate about **Machine Learning, Deep Learning, and C
 ---
 
 ## 🏆 About Me  
+- 💡 Former AI Engineer at **7ctech & Aim Tech Innovation**  
 - 🎓 **BSc in Computer Science** (Ilma University, Karachi)  
 - 👨‍💻 **Junior Data Scientist** at Dawat e Islami  
-- 💡 Former AI Engineer at **7ctech & Aim Tech Innovation**  
 - 🚀 Freelancer on **Upwork**  
 
 ---

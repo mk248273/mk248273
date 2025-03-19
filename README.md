@@ -5,9 +5,9 @@ I'm an **AI Engineer** passionate about **Machine Learning, Deep Learning, and C
 ---
 
 ## 🏆 About Me  
-- 💡 Former AI Engineer at **7ctech & Aim Tech Innovation**  
 - 🎓 **BSc in Computer Science** (Ilma University, Karachi)  
 - 👨‍💻 **Junior Data Scientist** at Dawat e Islami  
+- 💡 Former AI Engineer at **7ctech & Aim Tech Innovation**  
 - 🚀 Freelancer on **Upwork**  
 
 ---
@@ -28,6 +28,20 @@ I'm an **AI Engineer** passionate about **Machine Learning, Deep Learning, and C
 🔹 **Bee Detection using YOLOv8**  
 🔹 **Automated Court Booking** - [CourtSite](https://www.courtsite.my)  
 🔹 **Customer Reviews Sentiment Analysis**  
+
+---
+
+## 🌟 Upwork Reviews  
+
+⭐ **ML Task (5.0/5)**  
+_"He is amazing. Highly recommended. Delivers what he commits. Very talented."_  
+💰 **$80.00 - Fixed Price**  
+📅 **Sep 29, 2023 - Oct 7, 2023**  
+
+⭐ **Azure + OpenAI + Machine Learning (5.0/5)**  
+_"Would surely recommend! He is very talented and able to deliver before time. I would suggest trying his services. He is professional and able to do complex tasks."_  
+💰 **$50.00 - Fixed Price**  
+📅 **Aug 28, 2023 - Aug 31, 2023**  
 
 ---
 
